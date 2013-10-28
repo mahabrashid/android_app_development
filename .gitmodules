@@ -4,3 +4,6 @@
 [submodule "androiddev_SquareAnswer"]
 	path = androiddev_SquareAnswer
 	url = git@github.com:mahabrashid/androiddev_SquareAnswer.git
+[submodule "androiddev_FirstAndroidApp"]
+	path = androiddev_FirstAndroidApp
+	url = git@github.com:mahabrashid/androiddev_FirstAndroidApp.git
