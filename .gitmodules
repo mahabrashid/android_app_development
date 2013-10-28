@@ -1,3 +1,6 @@
 [submodule "androiddev_ClassEgAnswer"]
 	path = androiddev_ClassEgAnswer
 	url = git@github.com:mahabrashid/androiddev_ClassEgAnswer.git
+[submodule "androiddev_SquareAnswer"]
+	path = androiddev_SquareAnswer
+	url = git@github.com:mahabrashid/androiddev_SquareAnswer.git
